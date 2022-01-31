@@ -1,0 +1,16 @@
+D:\TaskC\bin\Debug\net5.0\TaskC.exe
+D:\TaskC\bin\Debug\net5.0\TaskC.deps.json
+D:\TaskC\bin\Debug\net5.0\TaskC.runtimeconfig.json
+D:\TaskC\bin\Debug\net5.0\TaskC.runtimeconfig.dev.json
+D:\TaskC\bin\Debug\net5.0\TaskC.dll
+D:\TaskC\bin\Debug\net5.0\ref\TaskC.dll
+D:\TaskC\bin\Debug\net5.0\TaskC.pdb
+D:\TaskC\obj\Debug\net5.0\TaskC.csprojAssemblyReference.cache
+D:\TaskC\obj\Debug\net5.0\TaskC.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaskC\obj\Debug\net5.0\TaskC.AssemblyInfoInputs.cache
+D:\TaskC\obj\Debug\net5.0\TaskC.AssemblyInfo.cs
+D:\TaskC\obj\Debug\net5.0\TaskC.csproj.CoreCompileInputs.cache
+D:\TaskC\obj\Debug\net5.0\TaskC.dll
+D:\TaskC\obj\Debug\net5.0\ref\TaskC.dll
+D:\TaskC\obj\Debug\net5.0\TaskC.pdb
+D:\TaskC\obj\Debug\net5.0\TaskC.genruntimeconfig.cache
